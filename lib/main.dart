@@ -100,7 +100,7 @@ class test01 extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Text("これはテストです");
+    return const Text("これはgitのテストです");
   }
 }
 
